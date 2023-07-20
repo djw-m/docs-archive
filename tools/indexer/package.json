@@ -1,0 +1,17 @@
+{
+  "name": "indexer",
+  "version": "1.0.0",
+  "description": "Indexer for pdf",
+  "main": "indexer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "globby": "^13.2.2",
+    "minimist": "^1.2.8",
+    "pdf-lib": "^1.17.1"
+  }
+}
